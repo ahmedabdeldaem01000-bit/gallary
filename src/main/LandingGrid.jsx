@@ -1,17 +1,26 @@
 // src/components/LandingGrid.jsx
 import { motion } from "framer-motion";
-
+import image1 from "../../public/gallery1/image1.jpg"
+import image2 from "../../public/gallery1/image2.jpg"
+import image3 from "../../public/gallery1/image3.jpg"
+import image4 from "../../public/gallery1/image4.jpg"
+import image5 from "../../public/gallery1/image5.jpg"
+import image6 from "../../public/gallery1/image6.jpg"
+import image7 from "../../public/gallery1/image7.jpg"
+import image8 from "../../public/gallery1/image8.jpg"
+import image9 from "../../public/gallery1/image9.jpg"
+import image10 from "../../public/gallery1/image10.jpg"
 const images = [
-  "../../public/gallery1/image1.jpg",
-  "../../public/gallery1/image2.jpg",
-  "../../public/gallery1/image3.jpg",
-  "../../public/gallery1/image4.jpg",
-  "../../public/gallery1/image5.jpg",
-  "../../public/gallery1/image6.jpg",
-  "../../public/gallery1/image7.jpg",
-  "../../public/gallery1/image8.jpg",
-  "../../public/gallery1/image9.jpg",
-  "../../public/gallery1/image10.jpg",
+ image1,
+ image2,
+ image3,
+ image4,
+ image5,
+ image6,
+ image7,
+ image8,
+ image9,
+ image10,
 
 ];
 

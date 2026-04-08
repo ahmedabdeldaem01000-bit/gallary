@@ -1,13 +1,11 @@
 // src/components/GalleryGrid.jsx
 import { motion } from "framer-motion";
+import image3 from   "../../public/gallery1/image3.jpg"
+import image5 from   "../../public/gallery1/image5.jpg"
 
 const images = [
-  "/gallery1/image1.jpg",
-  "/public/gallery1/image2.jpg",
-  "/public/gallery1/image3.jpg",
-  "/public/gallery1/image4.jpg",
-  "/public/gallery1/image5.jpg",
-  "/public/gallery1/image6.jpg",
+ image3,
+ image5
 ];
 
 const imageVariants = {
@@ -51,7 +49,7 @@ export default function GalleryGrid() {
           A magical visual experience — scroll down to reveal the art ✨
         </motion.p>
 
-        <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 md:grid-cols-3">
+     <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 md:grid-cols-3">
           {images.map((src, index) => (
             <motion.div
               key={index}
@@ -67,10 +65,10 @@ export default function GalleryGrid() {
                 className="w-full h-[420px] object-cover transition-transform duration-700 ease-out group-hover:scale-110 group-hover:rotate-1"
               />
 
-              {/* طبقة Glow على الصورة */}
+           
               <div className="absolute inset-0 transition-opacity duration-700 opacity-0 bg-gradient-to-t from-black/70 via-transparent to-black/20 group-hover:opacity-100"></div>
 
-              {/* عنوان خيالي بسيط فوق الصورة */}
+             
               <motion.span
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
@@ -81,7 +79,7 @@ export default function GalleryGrid() {
               </motion.span>
             </motion.div>
           ))}
-        </div>
+        </div> 
       </div>
     </section>
   );

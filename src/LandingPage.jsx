@@ -5,9 +5,9 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import "lenis/dist/lenis.css";
 import image1 from   "../public/gallery1/image1.jpg"
 import image2 from   "../public/gallery1/image2.jpg"
-import image3 from   "../public/gallery1/image3.jpg"
+// import image3 from   "../public/gallery1/image3.jpg"
 import image4 from   "../public/gallery1/image4.jpg"
-import image5 from   "../public/gallery1/image5.jpg"
+// import image5 from   "../public/gallery1/image5.jpg"
 import image6 from   "../public/gallery1/image6.jpg"
 gsap.registerPlugin(ScrollTrigger);
 
@@ -75,20 +75,13 @@ export default function LandingPage() {
       ScrollTrigger.killAll();
     };
   }, []);
-const images = [
-  image1,
-  image2,
-  image3,
-  image4,
-  image5,
-  image6,
-];
-
+ 
   const slides = [
     {
       title: "Moments in Motion",
       subtitle: "Photography that tells a story.",
-      src: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      // src: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      src: image2,
     },
     {
       title: "Urban Life",

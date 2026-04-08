@@ -62,13 +62,13 @@ export default function ParallaxGallery() {
 
     return () => ScrollTrigger.killAll();
   }, []);
-const galleries = ['gallery1'];
+const galleries = ['gallery1','gallery2'];
 const sections = [];
 
 galleries.forEach((gallery, gIndex) => {
   for (let i = 1; i <= 10; i++) {
     sections.push({
-      src: `/${gallery}/image${i}.jpg`,
+      src: `../../public/${gallery}/image${i}.jpg`,
       title: `Gallery ${gIndex + 1} - Image ${i}`,
       bg: `linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.6))`,
     });

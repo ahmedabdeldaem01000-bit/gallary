@@ -6,7 +6,6 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import LandingPage from "./LandingPage";
 import ParallaxGallery from "./ParallaxGallery";
 import ZoomTransitionSection from "./main/ZoomTransitionSection";
-import AboutSection from "./main/AboutSection";
 import ZoomTransitionGallary from "./main/ZoomTransitionGallary";
 import CinematicGallery from "./main/CinematicGallery";
 import GalleryGrid from "./main/GalleryGrid";
@@ -74,7 +73,7 @@ export default function App() {
           </motion.h2>
         </section>
 
-        {/* <AboutSection /> */}
+      
       <ArtistSection  />
 
       </div>

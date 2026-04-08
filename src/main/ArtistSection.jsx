@@ -2,7 +2,7 @@
 import { useEffect, useRef } from "react";
 import { motion, useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-import artist from "/public/mana3.png";
+import artist from "../../public/mana3.png";
 
 export default function ArtistSection({ scale, opacity }) {
   const controls = useAnimation();

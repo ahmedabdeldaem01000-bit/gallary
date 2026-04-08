@@ -4,10 +4,14 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import "tailwindcss/tailwind.css";
  gsap.registerPlugin(ScrollTrigger);
 
-const images = [
- 
-  ...Array.from({ length: 10 }, (_, i) => `/public/gallery4/image${i + 1}.jpg`),
-];
+// const images = [
+
+//   ...Array.from({ length: 10 }, (_, i) => `../../gallery4/img${i + 1}.jpg`),
+// ];
+const images = Array.from(
+  { length: 10 },
+  (_, i) => `../../public/gallery4/img${i + 1}.jpg`
+);
 // console.log("aaaaaaaaa",images)
 export default function ScrollAnimationsGallery() {
   const containerRef = useRef(null);

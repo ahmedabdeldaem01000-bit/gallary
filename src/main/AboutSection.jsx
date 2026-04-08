@@ -1,6 +1,6 @@
 import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
-import image from "/public/mana3.png"
+import image from "../../public/mana3.png";
 export default function AboutSection() {
   const ref = useRef(null);
   const { scrollYProgress } = useScroll({

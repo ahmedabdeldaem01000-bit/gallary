@@ -1,13 +1,18 @@
 // src/components/FallingGallery.jsx
 import { motion } from "framer-motion";
-
+import image1 from "../../public/gallery2/image1.jpg"
+import image2 from "../../public/gallery2/image2.jpg"
+import image3 from "../../public/gallery2/image3.jpg"
+import image4 from "../../public/gallery2/image4.jpg"
+import image5 from "../../public/gallery2/image5.jpg"
+import image6 from "../../public/gallery2/image6.jpg"
 const images = [
-  "/public/gallery2/image1.jpg",
-  "/public/gallery2/image2.jpg",
-  "/public/gallery2/image3.jpg",
-  "/public/gallery2/image4.jpg",
-  "/public/gallery2/image5.jpg",
-  "/public/gallery2/image6.jpg",
+image1,
+image2,
+image3,
+image4,
+image5,
+image6,
 ];
 
 const imageVariants = {
