@@ -6,7 +6,7 @@ import "tailwindcss/tailwind.css";
 
 const images = [
  
-  ...Array.from({ length: 10 }, (_, i) => `/public/gallery4/image${i + 1}.jpg`),
+  ...Array.from({ length: 10 }, (_, i) => `/gallery4/image${i + 1}.jpg`),
 ];
 // console.log("aaaaaaaaa",images)
 export default function ScrollAnimationsGallery() {

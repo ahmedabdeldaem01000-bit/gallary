@@ -3,11 +3,11 @@ import { motion } from "framer-motion";
 
 const images = [
   "/gallery1/image1.jpg",
-  "/public/gallery1/image2.jpg",
-  "/public/gallery1/image3.jpg",
-  "/public/gallery1/image4.jpg",
-  "/public/gallery1/image5.jpg",
-  "/public/gallery1/image6.jpg",
+  "/gallery1/image2.jpg",
+  "/gallery1/image3.jpg",
+  "/gallery1/image4.jpg",
+  "/gallery1/image5.jpg",
+  "/gallery1/image6.jpg",
 ];
 
 const imageVariants = {

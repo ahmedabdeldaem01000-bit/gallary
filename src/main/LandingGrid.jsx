@@ -2,16 +2,16 @@
 import { motion } from "framer-motion";
 
 const images = [
-  "/public/gallery1/image1.jpg",
-  "/public/gallery1/image2.jpg",
-  "/public/gallery1/image3.jpg",
-  "/public/gallery1/image4.jpg",
-  "/public/gallery1/image5.jpg",
-  "/public/gallery1/image6.jpg",
-  "/public/gallery1/image7.jpg",
-  "/public/gallery1/image8.jpg",
-  "/public/gallery1/image9.jpg",
-  "/public/gallery1/image10.jpg",
+  "/gallery1/image1.jpg",
+  "/gallery1/image2.jpg",
+  "/gallery1/image3.jpg",
+  "/gallery1/image4.jpg",
+  "/gallery1/image5.jpg",
+  "/gallery1/image6.jpg",
+  "/gallery1/image7.jpg",
+  "/gallery1/image8.jpg",
+  "/gallery1/image9.jpg",
+  "/gallery1/image10.jpg",
 
 ];
 
