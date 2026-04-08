@@ -51,7 +51,7 @@ export default function FallingGallery() {
             viewport={{ once: true, amount: 0.5 }} // يبدأ لما العنصر يكون في نص الشاشة
           >
             <motion.img
-              src={src}
+              src={src.src}
               alt={`Falling Image ${i + 1}`}
               className="w-full h-[250px] object-cover hover:scale-110 transition-transform duration-700 ease-out"
             />
