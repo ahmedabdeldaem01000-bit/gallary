@@ -2,16 +2,17 @@ import { useEffect, useRef } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import "tailwindcss/tailwind.css";
+const images = import.meta.glob('../../public/gallery3/*.jpg', { eager: true });
+
  gsap.registerPlugin(ScrollTrigger);
 
-// const images = [
+ 
+const sections = Object.values(images).map((img, index) => ({
+  src: img.default,
+  title: `Gallery 1 - Image ${index + 1}`,
+  bg: `linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.6))`,
+}));
 
-//   ...Array.from({ length: 10 }, (_, i) => `../../gallery4/img${i + 1}.jpg`),
-// ];
-const images = Array.from(
-  { length: 10 },
-  (_, i) => `../../public/gallery4/img${i + 1}.jpg`
-);
 // console.log("aaaaaaaaa",images)
 export default function ScrollAnimationsGallery() {
   const containerRef = useRef(null);
@@ -72,7 +73,7 @@ export default function ScrollAnimationsGallery() {
       </h2>
 
       <div className="relative flex flex-wrap justify-center w-full gap-6">
-        {images.map((src, i) => (
+        {sections.map((src, i) => (
           <div
             key={i}
             className="gallery-item relative w-[300px] h-[420px] rounded-2xl overflow-hidden shadow-[0_0_25px_rgba(255,255,255,0.1)]"

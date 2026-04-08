@@ -80,8 +80,8 @@ export default function LandingPage() {
     {
       title: "Moments in Motion",
       subtitle: "Photography that tells a story.",
-      // src: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
-      src: image2,
+      src: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      // src: image2,
     },
     {
       title: "Urban Life",

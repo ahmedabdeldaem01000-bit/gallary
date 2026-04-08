@@ -1,19 +1,10 @@
 // src/components/FallingGallery.jsx
 import { motion } from "framer-motion";
-import image1 from "../../public/gallery2/image1.jpg"
-import image2 from "../../public/gallery2/image2.jpg"
-import image3 from "../../public/gallery2/image3.jpg"
-import image4 from "../../public/gallery2/image4.jpg"
-import image5 from "../../public/gallery2/image5.jpg"
-import image6 from "../../public/gallery2/image6.jpg"
-const images = [
-image1,
-image2,
-image3,
-image4,
-image5,
-image6,
-];
+
+const images = import.meta.glob('../../public/gallery2/*.jpg', { eager: true });
+const sections = Object.values(images).map((img, index) => ({
+  src: img.default,
+}));
 
 const imageVariants = {
   hidden: {
@@ -49,7 +40,7 @@ export default function FallingGallery() {
       </div>
 
       <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 md:grid-cols-3">
-        {images.map((src, i) => (
+        {sections.map((src, i) => (
           <motion.div
             key={i}
             className="overflow-hidden shadow-xl rounded-2xl"

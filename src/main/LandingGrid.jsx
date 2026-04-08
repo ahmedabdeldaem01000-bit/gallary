@@ -1,29 +1,12 @@
 // src/components/LandingGrid.jsx
 import { motion } from "framer-motion";
-import image1 from "../../public/gallery1/image1.jpg"
-import image2 from "../../public/gallery1/image2.jpg"
-import image3 from "../../public/gallery1/image3.jpg"
-import image4 from "../../public/gallery1/image4.jpg"
-import image5 from "../../public/gallery1/image5.jpg"
-import image6 from "../../public/gallery1/image6.jpg"
-import image7 from "../../public/gallery1/image7.jpg"
-import image8 from "../../public/gallery1/image8.jpg"
-import image9 from "../../public/gallery1/image9.jpg"
-import image10 from "../../public/gallery1/image10.jpg"
-const images = [
- image1,
- image2,
- image3,
- image4,
- image5,
- image6,
- image7,
- image8,
- image9,
- image10,
 
-];
-
+const images = import.meta.glob('../../public/gallery1/*.jpg', { eager: true });
+const sections = Object.values(images).map((img, index) => ({
+  src: img.default,
+  title: `Gallery 1 - Image ${index + 1}`,
+  bg: `linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.6))`,
+}));
 const imageVariants = {
   hidden: { opacity: 0, scale: 0.9, y: 50 },
   visible: {
@@ -47,7 +30,7 @@ export default function LandingGrid() {
       </div>
 
       <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3">
-        {images.map((src, index) => (
+        {sections.map((src, index) => (
           <motion.div
             key={index}
             className="overflow-hidden shadow-lg rounded-2xl"

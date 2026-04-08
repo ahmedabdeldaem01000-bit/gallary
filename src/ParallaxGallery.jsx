@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+const images = import.meta.glob('../public/gallery1/*.jpg', { eager: true });
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -62,19 +63,23 @@ export default function ParallaxGallery() {
 
     return () => ScrollTrigger.killAll();
   }, []);
-const galleries = ['gallery1','gallery2'];
-const sections = [];
+// const galleries = ['gallery1','gallery2'];
+// const sections = [];
 
-galleries.forEach((gallery, gIndex) => {
-  for (let i = 1; i <= 10; i++) {
-    sections.push({
-      src: `../../public/${gallery}/image${i}.jpg`,
-      title: `Gallery ${gIndex + 1} - Image ${i}`,
-      bg: `linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.6))`,
-    });
-  }
-});
-
+// galleries.forEach((gallery, gIndex) => {
+//   for (let i = 1; i <= 10; i++) {
+//     sections.push({
+//       src: `../public/${gallery}/image${i}.jpg`,
+//       title: `Gallery ${gIndex + 1} - Image ${i}`,
+//       bg: `linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.6))`,
+//     });
+//   }
+// });
+const sections = Object.values(images).map((img, index) => ({
+  src: img.default,
+  title: `Gallery 1 - Image ${index + 1}`,
+  bg: `linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.6))`,
+}));
   return (
     <div className="text-white bg-black">
       {sections.map((item, i) => (

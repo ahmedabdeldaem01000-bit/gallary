@@ -1,12 +1,12 @@
 // src/components/GalleryGrid.jsx
 import { motion } from "framer-motion";
-import image3 from   "../../public/gallery1/image3.jpg"
-import image5 from   "../../public/gallery1/image5.jpg"
 
-const images = [
- image3,
- image5
-];
+
+ 
+const images = import.meta.glob('../../public/gallery4/*.jpg', { eager: true });
+const sections = Object.values(images).map((img, index) => ({
+  src: img.default,
+}));
 
 const imageVariants = {
   hidden: { opacity: 0, scale: 0.8, y: 100, filter: "blur(10px)" },
@@ -50,7 +50,7 @@ export default function GalleryGrid() {
         </motion.p>
 
      <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 md:grid-cols-3">
-          {images.map((src, index) => (
+          {sections.map((src, index) => (
             <motion.div
               key={index}
               className="relative overflow-hidden rounded-2xl shadow-[0_0_25px_rgba(255,255,255,0.1)] group"
