@@ -79,7 +79,7 @@ export default function ScrollAnimationsGallery() {
             className="gallery-item relative w-[300px] h-[420px] rounded-2xl overflow-hidden shadow-[0_0_25px_rgba(255,255,255,0.1)]"
           >
             <img
-              src={src}
+              src={src.src}
               alt={`Gallery ${i + 1}`}
               className="object-cover w-full h-full transition-transform duration-700 ease-out hover:scale-110 hover:rotate-1"
             />

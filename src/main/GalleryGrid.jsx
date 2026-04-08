@@ -60,7 +60,7 @@ export default function GalleryGrid() {
               viewport={{ once: true, amount: 0.3 }}
             >
               <motion.img
-                src={src}
+                src={src.src}
                 alt={`Gallery ${index + 1}`}
                 className="w-full h-[420px] object-cover transition-transform duration-700 ease-out group-hover:scale-110 group-hover:rotate-1"
               />

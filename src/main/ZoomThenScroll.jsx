@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-
+import image from "../../public/gallery1/image1.jpg"
 gsap.registerPlugin(ScrollTrigger);
 
 export default function ZoomThenScroll() {
@@ -32,7 +32,7 @@ export default function ZoomThenScroll() {
         className="relative flex items-center justify-center h-screen overflow-hidden bg-black"
       >
         <img
-          src="/assets/gallery1/image1.jpg"
+          src={image}
           alt="Zoom Scene"
           className="object-cover w-full h-full"
         />
