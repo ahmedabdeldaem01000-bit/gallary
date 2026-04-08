@@ -2,12 +2,12 @@
 import { motion } from "framer-motion";
 
 const images = [
-  "/gallery2/image1.jpg",
-  "/gallery2/image2.jpg",
-  "/gallery2/image3.jpg",
-  "/gallery2/image4.jpg",
-  "/gallery2/image5.jpg",
-  "/gallery2/image6.jpg",
+  "/public/gallery2/image1.jpg",
+  "/public/gallery2/image2.jpg",
+  "/public/gallery2/image3.jpg",
+  "/public/gallery2/image4.jpg",
+  "/public/gallery2/image5.jpg",
+  "/public/gallery2/image6.jpg",
 ];
 
 const imageVariants = {

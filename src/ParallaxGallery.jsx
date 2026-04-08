@@ -68,7 +68,7 @@ const sections = [];
 galleries.forEach((gallery, gIndex) => {
   for (let i = 1; i <= 10; i++) {
     sections.push({
-      src: `/public/${gallery}/image${i}.jpg`,
+      src: `/${gallery}/image${i}.jpg`,
       title: `Gallery ${gIndex + 1} - Image ${i}`,
       bg: `linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.6))`,
     });
@@ -97,8 +97,7 @@ galleries.forEach((gallery, gIndex) => {
           <div className="relative z-10 text-center overlay-text">
             <h2 className="mb-3 text-4xl font-bold md:text-6xl">{item.title}</h2>
             <p className="max-w-lg mx-auto text-lg text-gray-200">
-              This section reveals smoothly as you scroll with zoomed background
-              and parallax motion.
+            new commit to test the parallax effect with the new images and see how it enhances the visual experience of the gallery.
             </p>
           </div>
 
