@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  scroll-behavior: auto; /* ✅ عشان Lenis يتحكم */
+  overflow-x: hidden;
+}
+
+body {
+  background: radial-gradient(circle at top, #111, #000);
+  margin: 0;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+}
+/* ملف CSS عام أو Tailwind globals.css */
+
+/* تغيير عرض شريط التمرير */
+::-webkit-scrollbar {
+  width: 12px; /* سمك الشريط */
+}
+
+/* خلفية المسار (track) */
+::-webkit-scrollbar-track {
+  background: #1a1a1a; /* لون خلفية الشريط */
+  border-radius: 10px;
+}
+
+/* لون المقبض (thumb) */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #00f, #0ff); /* gradient أزرق/فيروزي */
+  border-radius: 10px;
+}
+
+/* عند المرور بالماوس على المقبض */
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #0ff, #00f);
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin; /* يمكن: auto / thin / none */
+  scrollbar-color: #00f #1a1a1a; /* thumb color / track color */
+}
