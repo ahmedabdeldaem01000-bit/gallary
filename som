@@ -1,0 +1,2301 @@
+# Code Citations
+
+## License: unknown
+https://github.com/duongbkt/ASM-ECMA-JS/blob/ab8d25037d5345fd4eda1ebb3d437f25388d09ef/src/admin/products/ListProducts.js
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/jimuelcaratao/WeShop/blob/a8b55ccca954ce9b25a492f1a23d088b3fc3b02e/resources/views/Pages/Admin/orders.blade.php
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/duongbkt/ASM-ECMA-JS/blob/ab8d25037d5345fd4eda1ebb3d437f25388d09ef/src/client/page/cart.js
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/tamltph13479/assignment-angular/blob/7890b1a93b9a791f820b10a3e0a48a0da1a3d90f/src/app/pages/client-pase/cart/cart.component.html
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/memicelis/recipe-app/blob/c4360b7ce3c12e65b8846d4df678ff07982bf629/app/views/foods/index.html.erb
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/peteromallet/Advisable/blob/4bd73d1446f60bacf39391d2893db019cb1d2aa8/app/views/admin/articles/_articles.html.erb
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/hsli2020/snippets/blob/9b5288aab26c1d3d676997f5d7acb892994df8a8/css/tailwind/readymadeui/tailwind-component-table.html
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: MIT
+https://github.com/yousoufos/amazonClone/blob/59dd4b8ff14878a1edbdd6c0379614bacf819b21/src/components/admin/product/listProduct.vue
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/esmale/form_builder/blob/cef26efd6991955f6a9d83a7d06da79d1f325dd6/app/views/admin/forms/index.html.erb
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/heangdeveloper/Tailwind-Dashboard/blob/6fffc8873e63b42b1d9dcf5b398c14451671f911/public/list.html
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/esmale/form_builder/blob/cef26efd6991955f6a9d83a7d06da79d1f325dd6/app/views/admin/forms/index.html.erb
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/jimuelcaratao/WeShop/blob/a8b55ccca954ce9b25a492f1a23d088b3fc3b02e/resources/views/Pages/Admin/orders.blade.php
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/heangdeveloper/Tailwind-Dashboard/blob/6fffc8873e63b42b1d9dcf5b398c14451671f911/public/list.html
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/duongbkt/ASM-ECMA-JS/blob/ab8d25037d5345fd4eda1ebb3d437f25388d09ef/src/client/page/cart.js
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/duongbkt/ASM-ECMA-JS/blob/ab8d25037d5345fd4eda1ebb3d437f25388d09ef/src/admin/products/ListProducts.js
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/tamltph13479/assignment-angular/blob/7890b1a93b9a791f820b10a3e0a48a0da1a3d90f/src/app/pages/client-pase/cart/cart.component.html
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: MIT
+https://github.com/yousoufos/amazonClone/blob/59dd4b8ff14878a1edbdd6c0379614bacf819b21/src/components/admin/product/listProduct.vue
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/memicelis/recipe-app/blob/c4360b7ce3c12e65b8846d4df678ff07982bf629/app/views/foods/index.html.erb
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/peteromallet/Advisable/blob/4bd73d1446f60bacf39391d2893db019cb1d2aa8/app/views/admin/articles/_articles.html.erb
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/hsli2020/snippets/blob/9b5288aab26c1d3d676997f5d7acb892994df8a8/css/tailwind/readymadeui/tailwind-component-table.html
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Price</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Quantity</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/peteromallet/Advisable/blob/4bd73d1446f60bacf39391d2893db019cb1d2aa8/app/views/admin/articles/_articles.html.erb
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Email</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Address</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Phone</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/esmale/form_builder/blob/cef26efd6991955f6a9d83a7d06da79d1f325dd6/app/views/admin/forms/index.html.erb
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Email</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Address</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Phone</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/northernmonkeycreative/northhydraulic/blob/408297528e91a058ed5e1b5d917214e4c98001c1/resources/views/Clients/index.blade.php
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Email</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Address</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Phone</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: MIT
+https://github.com/C-NikhilKarthik/DBMS-Mini-Project/blob/2154e2b484a72adb6c1717c9f0d6d483c7fc4d1b/client/src/pages/Propertylisting.jsx
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Email</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Address</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Phone</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/hsli2020/snippets/blob/9b5288aab26c1d3d676997f5d7acb892994df8a8/css/tailwind/readymadeui/tailwind-component-table.html
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Email</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Address</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Phone</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: MIT
+https://github.com/yousoufos/amazonClone/blob/59dd4b8ff14878a1edbdd6c0379614bacf819b21/src/components/admin/product/listProduct.vue
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Email</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Address</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Phone</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/heangdeveloper/Tailwind-Dashboard/blob/6fffc8873e63b42b1d9dcf5b398c14451671f911/public/list.html
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Email</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Address</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Phone</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/juanmaparrado/ScullyonBrand_TFG/blob/19c5d65606f4b333cba4301c2b83a0c009c24fb5/resources/views/stores/index.blade.php
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Email</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Address</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Phone</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/hebertclever/table-delete/blob/c37d5543bae83a1e89f3d98ad45677ed76178395/src/views/home.php
+
+```
+hidden">
+        <table class="min-w-full divide-y divide-gray-200">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Email</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Address</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Phone</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+                </tr>
+            </thead>
+            <tbody class="bg-white divide-y divide-gray-200">
+                <
+```
+
+
+## License: unknown
+https://github.com/PdxCodeGuild/HB3/blob/0a0dc2cc39e2c71e420350607f911fc0d08d0371/code/AustinD/Django/lab03/twitter_clone/templates/login.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/c-fitzmaurice/fitz-maurice/blob/fef4914a57898f71844530a549923feae00402d4/source/contact.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/saulocamposi/saulocamposi.github.io/blob/7a46a66e74642f7e35f9a33d91e45a3f6865292f/cms/backend/public/index.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: BSD-3-Clause
+https://github.com/sumukshashidhar/quick/blob/ad8cc816a6882627f3f4d9f0163a93cdedbb68d6/web2/views/create.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/christcame/christcame.github.io/blob/54dfafab26f795f6a1d2c3320cae607f2f184b01/register.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/CKVGGWP/Laravel-Exercise/blob/9a0b2b200cc07381b08280d7065a6652a5be42c4/resources/views/auth/register.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Micahget/jsFormValidation/blob/c8375fad0e3b35e11c888a9e5cd1d56e9685e355/index.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Heccubernny/tp-dash/blob/d52fcd20e5c1f352381da2f9f8637fca2f3b38bf/resources/views/components/modal/add-new-user-modal.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/YaoHuan123/image/blob/55102ef0c0bdb8fe749c86465a4da7475727e984/index.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Tmosharaf/laravel-crm/blob/670a806c2ea6631776e68d7300a6e0dc25e29828/resources/views/admin/client/create.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/cho18380/web42/blob/6392363a8e598532a5d2cc290af60af97d143bdc/templates/login.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Kim-CheolHee/laravel_board/blob/64512709742c1fee7ce41ba89417cf8ff11c3bde/resources/views/users/edit.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/DandhiAri/INDAH-flower-shop/blob/60be9ccc251bf4a377e177131319b89e8b47a603/resources/views/admin/product/edit.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/joesoeph/deptech_crud/blob/15891ba9ad929841e898f0bd3b8646e787c7cf43/resources/views/employees/_form.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/IstiakDeveloper/hrm-mousumi/blob/400b6ab45e02b5a1e1f5941cec00cc53b13e3388/resources/views/admin/recruitments/careers/apply.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Tmosharaf/laravel-crm/blob/670a806c2ea6631776e68d7300a6e0dc25e29828/resources/views/admin/project/create.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: MIT
+https://github.com/benreyn/signup-form-prototype/blob/cb9933f58516dba50ba4e8ee24128f7b7d2a8293/public/index.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/dsa0x/go-social-network/blob/dd89c73564495414639dd3b6a2b05c0e54d881c8/internal/views/signup.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/SumitK27/Pet-Adopt-MEEN/blob/522eac4f66288e654be9a8e6d6faa904427e44ad/views/shared/edit-profile.ejs
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Heccubernny/tp-dash/blob/d52fcd20e5c1f352381da2f9f8637fca2f3b38bf/resources/views/components/modal/add-new-admin-modal.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/zsergei/test-proj/blob/3f707fc035d4aa695c396239424e62908049fae3/pages/registration.vue
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/ronitrks6666/Food-Delivery/blob/94a56d93b395503d49969d3806d5d0e1f028e92e/resources/views/auth/login.ejs
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Atul9180/ExpenseTracker_Sequelize/blob/599677a613e9149fed819001ef03aae5e39ebf2d/Expense%20Tracker/public/view/home.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/HichemDX/ENG/blob/e4dd0397fb0b3c6fa1803c103f9220cf8871d4c4/resources/views/admin/activites/create.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Trgquis/ENGLISHCOURSE/blob/5c71155fff2ea2c9c48608f3a13e6c1f8140e9c9/vuejs/src/pages/AddContactModal.vue
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/thehienvnag/gastric-pain-relief/blob/74fd8e7bf82fd7479a13054526ef8a3a6c07de8c/public/index.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/ParthNS1/EventManagementSystem/blob/51f11924a4c9965d1a18295ee52659aa3c6d70d6/src/main/webapp/login.jsp
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
+            <input type="password" name="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: BSD-3-Clause
+https://github.com/sumukshashidhar/quick/blob/ad8cc816a6882627f3f4d9f0163a93cdedbb68d6/web2/views/create.html
+
+```
+</div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/ronitrks6666/Food-Delivery/blob/94a56d93b395503d49969d3806d5d0e1f028e92e/resources/views/auth/login.ejs
+
+```
+</div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Tmosharaf/laravel-crm/blob/670a806c2ea6631776e68d7300a6e0dc25e29828/resources/views/admin/project/create.blade.php
+
+```
+</div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/PdxCodeGuild/HB3/blob/0a0dc2cc39e2c71e420350607f911fc0d08d0371/code/AustinD/Django/lab03/twitter_clone/templates/login.html
+
+```
+</div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Milo-star/Laravel-Facture/blob/c077759c123c4d28f868814ee5ee61b212ce965d/resources/views/clients/create.blade.php
+
+```
+</div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/IstiakDeveloper/hrm-mousumi/blob/400b6ab45e02b5a1e1f5941cec00cc53b13e3388/resources/views/admin/recruitments/careers/apply.blade.php
+
+```
+</div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/YaoHuan123/image/blob/55102ef0c0bdb8fe749c86465a4da7475727e984/index.html
+
+```
+</div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/vxslav/Lexiconn/blob/23cddbeb219c3d655b3f56c9615b6a1bd851c2df/resources/views/partials/profiles/create-profile-form.blade.php
+
+```
+</div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Tmosharaf/laravel-crm/blob/670a806c2ea6631776e68d7300a6e0dc25e29828/resources/views/admin/client/create.blade.php
+
+```
+</div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Heccubernny/tp-dash/blob/d52fcd20e5c1f352381da2f9f8637fca2f3b38bf/resources/views/components/modal/add-new-user-modal.blade.php
+
+```
+</div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/DandhiAri/INDAH-flower-shop/blob/60be9ccc251bf4a377e177131319b89e8b47a603/resources/views/admin/user/create.blade.php
+
+```
+</div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/joesoeph/deptech_crud/blob/15891ba9ad929841e898f0bd3b8646e787c7cf43/resources/views/employees/_form.blade.php
+
+```
+</div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/saulocamposi/saulocamposi.github.io/blob/7a46a66e74642f7e35f9a33d91e45a3f6865292f/cms/backend/public/index.html
+
+```
+</div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/DandhiAri/INDAH-flower-shop/blob/60be9ccc251bf4a377e177131319b89e8b47a603/resources/views/admin/product/edit.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/YaoHuan123/image/blob/55102ef0c0bdb8fe749c86465a4da7475727e984/index.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: BSD-3-Clause
+https://github.com/sumukshashidhar/quick/blob/ad8cc816a6882627f3f4d9f0163a93cdedbb68d6/web2/views/create.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/ParthNS1/EventManagementSystem/blob/51f11924a4c9965d1a18295ee52659aa3c6d70d6/src/main/webapp/login.jsp
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/zsergei/test-proj/blob/3f707fc035d4aa695c396239424e62908049fae3/pages/registration.vue
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/ronitrks6666/Food-Delivery/blob/94a56d93b395503d49969d3806d5d0e1f028e92e/resources/views/auth/login.ejs
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Tmosharaf/laravel-crm/blob/670a806c2ea6631776e68d7300a6e0dc25e29828/resources/views/admin/project/create.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/joesoeph/deptech_crud/blob/15891ba9ad929841e898f0bd3b8646e787c7cf43/resources/views/employees/_form.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/saulocamposi/saulocamposi.github.io/blob/7a46a66e74642f7e35f9a33d91e45a3f6865292f/cms/backend/public/index.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/dsa0x/go-social-network/blob/dd89c73564495414639dd3b6a2b05c0e54d881c8/internal/views/signup.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Tmosharaf/laravel-crm/blob/670a806c2ea6631776e68d7300a6e0dc25e29828/resources/views/admin/client/create.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Atul9180/ExpenseTracker_Sequelize/blob/599677a613e9149fed819001ef03aae5e39ebf2d/Expense%20Tracker/public/view/home.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Heccubernny/tp-dash/blob/d52fcd20e5c1f352381da2f9f8637fca2f3b38bf/resources/views/components/modal/add-new-admin-modal.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Trgquis/ENGLISHCOURSE/blob/5c71155fff2ea2c9c48608f3a13e6c1f8140e9c9/vuejs/src/pages/AddContactModal.vue
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/IstiakDeveloper/hrm-mousumi/blob/400b6ab45e02b5a1e1f5941cec00cc53b13e3388/resources/views/admin/recruitments/careers/apply.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/c-fitzmaurice/fitz-maurice/blob/fef4914a57898f71844530a549923feae00402d4/source/contact.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/christcame/christcame.github.io/blob/54dfafab26f795f6a1d2c3320cae607f2f184b01/register.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/CKVGGWP/Laravel-Exercise/blob/9a0b2b200cc07381b08280d7065a6652a5be42c4/resources/views/auth/register.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/PdxCodeGuild/HB3/blob/0a0dc2cc39e2c71e420350607f911fc0d08d0371/code/AustinD/Django/lab03/twitter_clone/templates/login.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/Heccubernny/tp-dash/blob/d52fcd20e5c1f352381da2f9f8637fca2f3b38bf/resources/views/components/modal/add-new-user-modal.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/HichemDX/ENG/blob/e4dd0397fb0b3c6fa1803c103f9220cf8871d4c4/resources/views/admin/activites/create.blade.php
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
+
+## License: unknown
+https://github.com/thehienvnag/gastric-pain-relief/blob/74fd8e7bf82fd7479a13054526ef8a3a6c07de8c/public/index.html
+
+```
+@csrf
+        <div class="mb-4">
+            <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
+            <input type="text" name="name" id="name" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input type="email" name="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
+        </div>
+        <div class="mb-4">
+            <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
+            <input type="text" name="address" id="address" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="mb-4">
+            <label for="phone" class="block text-gray-700 text-sm font-bold mb-2">Phone</label>
+            <input type="text" name="phone" id="phone" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        </div>
+        <div class="flex items-center justify-between">
+            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Create</button>
+        </div>
+    </form>
+```
+
